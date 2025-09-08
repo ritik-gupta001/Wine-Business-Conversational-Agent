@@ -46,8 +46,8 @@ cd wine-concierge-agent
 
 2. **Set up Python environment**:
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+python -m venv myenv
+venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
