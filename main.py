@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 try:
     from wine_agent import WineConciergeAgent
 except ImportError:
-    from simple_wine_agent import SimpleWineConcierge as WineConciergeAgent
+    from wine_agent import SimpleWineConcierge as WineConciergeAgent
 import uvicorn
 import logging
 
@@ -137,4 +137,5 @@ if __name__ == "__main__":
         port=port, 
         reload=True,
         log_level="info"
+
     )
