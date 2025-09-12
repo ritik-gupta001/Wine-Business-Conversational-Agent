@@ -2,6 +2,13 @@
 
 A sophisticated AI-powered chatbot designed to serve as a virtual wine concierge for Napa Valley Premium Winery. This agent provides information about wines, tasting experiences, current weather, and more.
 
+## Video Overview
+
+
+
+https://github.com/user-attachments/assets/a4f8163b-9e56-4495-95e4-26a60c7a13c2
+
+
 ## Features
 
 - 🍇 **Wine Information**: Details about available wines, pricing, and tasting notes
